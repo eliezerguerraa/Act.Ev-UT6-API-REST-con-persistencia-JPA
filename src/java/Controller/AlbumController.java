@@ -1,7 +1,7 @@
 package java.Controller;
 
-import com.musicapi.model.Album;
-import com.musicapi.service.AlbumService;
+import java.Model.Album;
+import java.Service.AlbumService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

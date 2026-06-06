@@ -1,6 +1,6 @@
 package java.Repository;
 
-import com.musicapi.model.Artista;
+import java.Model.Artista;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

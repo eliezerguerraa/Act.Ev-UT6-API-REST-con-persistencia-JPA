@@ -1,7 +1,7 @@
 package java.Controller;
 
-import com.musicapi.model.Cancion;
-import com.musicapi.service.CancionService;
+import java.Model.Cancion;
+import java.Service.CancionService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
