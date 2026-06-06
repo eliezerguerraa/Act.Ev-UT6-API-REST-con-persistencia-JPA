@@ -1,4 +1,4 @@
-package Repository;
+package java.Repository;
 
 public class ArtistaRepository {
     
